@@ -1,2 +1,4 @@
 # bays-classifer-diabetes-via-age
-Its a bays classsifer which predict your diabetes based on your age
+It's a bayes classsifer which predict your diabetes based on your age. It is based on bayes rule.
+
+
